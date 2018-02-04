@@ -1,0 +1,10 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Other Files
+original_data/*
+zander/*
